@@ -6,6 +6,9 @@
   "author": "Judy Feng",
   "license": "MIT",
   "private": true,
+  "engines": {
+            "node": "16.4.0"
+        },
   "scripts": {
     "start": "node server.js"
   },
